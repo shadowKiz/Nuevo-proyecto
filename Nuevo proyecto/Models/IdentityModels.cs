@@ -36,5 +36,9 @@ namespace Nuevo_proyecto.Models
         {
             return new ApplicationDbContext();
         }
+
+        //public System.Data.Entity.DbSet<Nuevo_proyecto.Models.RoleViewModel> RoleViewModels { get; set; }
+
+        //public System.Data.Entity.DbSet<Nuevo_proyecto.Models.EditUserViewModel> EditUserViewModels { get; set; }
     }
 }
